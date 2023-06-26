@@ -1,0 +1,142 @@
+[
+    {
+        "Identifier": "CVE-2022-0726",
+        "Title": "- Improper Authorization in GitHub repository chocobozzz/peertube prior to 4.1.0.",
+        "Published": "N/A",
+        "Severity Score": "5.4 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2022-0726"
+    },
+    {
+        "Identifier": "CVE-2022-0646",
+        "Title": "- A flaw use after free in the Linux kernel Management Component Transport Protocol (MCTP) subsystem was found in the way user triggers cancel_work_sync after the unregister_netdev during removing device. A local user could use this flaw to crash th... read",
+        "Published": "N/A",
+        "Severity Score": "7.8 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2022-0646"
+    },
+    {
+        "Identifier": "CVE-2022-0634",
+        "Title": "- The ThirstyAffiliates Affiliate Link Manager WordPress plugin before 3.10.5 lacks authorization checks in the ta_insert_external_image action, allowing a low-privilege user (with a role as low as Subscriber) to add an image from an external URL to... read",
+        "Published": "N/A",
+        "Severity Score": "4.3 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2022-0634"
+    },
+    {
+        "Identifier": "CVE-2022-0596",
+        "Title": "- Business Logic Errors in Packagist microweber/microweber prior to 1.2.11.",
+        "Published": "N/A",
+        "Severity Score": "4.3 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2022-0596"
+    },
+    {
+        "Identifier": "CVE-2022-0556",
+        "Title": "- A local privilege escalation vulnerability caused by incorrect permission assignment in some directories of the Zyxel AP Configurator (ZAC) version 1.1.4, which could allow an attacker to execute arbitrary code as a local administrator.",
+        "Published": "N/A",
+        "Severity Score": "7.8 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2022-0556"
+    },
+    {
+        "Identifier": "CVE-2016-5681",
+        "Title": "- Stack-based buffer overflow in dws/api/Login on D-Link DIR-850L B1 2.07 before 2.07WWB05, DIR-817 Ax, DIR-818LW Bx before 2.05b03beta03, DIR-822 C1 3.01 before 3.01WWb02, DIR-823 A1 1.00 before 1.00WWb05, DIR-895L A1 1.11 before 1.11WWb04, DIR-890... read",
+        "Published": "N/A",
+        "Severity Score": "9.8 CRITICAL",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2016-5681"
+    },
+    {
+        "Identifier": "CVE-2017-5149",
+        "Title": "- An issue was discovered in St. Jude Medical Merlin@home, versions prior to Version 8.2.2 (RF models: EX1150; Inductive models: EX1100; and Inductive models: EX1100 with MerlinOnDemand capability). The identities of the endpoints for the communicat... read",
+        "Published": "N/A",
+        "Severity Score": "8.9 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2017-5149"
+    },
+    {
+        "Identifier": "CVE-2021-26567",
+        "Title": "- Stack-based buffer overflow vulnerability in frontend/main.c in faad2 before 2.2.7.1 allow local attackers to execute arbitrary code via filename and pathname options.",
+        "Published": "N/A",
+        "Severity Score": "7.8 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-26567"
+    },
+    {
+        "Identifier": "CVE-2021-21327",
+        "Title": "- GLPI is an open-source asset and IT management software package that provides ITIL Service Desk features, licenses tracking and software auditing. In GLPI before version 9.5.4 non-authenticated user can remotely instantiate object of any class exi... read",
+        "Published": "N/A",
+        "Severity Score": "7.5 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-21327"
+    },
+    {
+        "Identifier": "CVE-2021-21773",
+        "Title": "- An out-of-bounds write vulnerability exists in the TIFF header count-processing functionality of Accusoft ImageGear 19.8. A specially crafted malformed file can lead to memory corruption. An attacker can provide a malicious file to trigger this vu... read",
+        "Published": "N/A",
+        "Severity Score": "7.8 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-21773"
+    },
+    {
+        "Identifier": "CVE-2021-21782",
+        "Title": "- An out-of-bounds write vulnerability exists in the SGI format buffer size processing functionality of Accusoft ImageGear 19.8. A specially crafted malformed file can lead to memory corruption. An attacker can provide a malicious file to trigger th... read",
+        "Published": "N/A",
+        "Severity Score": "8.8 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-21782"
+    },
+    {
+        "Identifier": "CVE-2021-25380",
+        "Title": "- Improper handling of exceptional conditions in Bixby prior to version 3.0.53.02 allows attacker to execute the actions registered by the user.",
+        "Published": "N/A",
+        "Severity Score": "7.3 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-25380"
+    },
+    {
+        "Identifier": "CVE-2021-23277",
+        "Title": "- Eaton Intelligent Power Manager (IPM) prior to 1.69 is vulnerable to unauthenticated eval injection vulnerability. The software does not neutralize code syntax from users before using in the dynamic evaluation call in loadUserFile function under s... read",
+        "Published": "N/A",
+        "Severity Score": "10.0 CRITICAL",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-23277"
+    },
+    {
+        "Identifier": "CVE-2021-37674",
+        "Title": "- TensorFlow is an end-to-end open source platform for machine learning. In affected versions an attacker can trigger a denial of service via a segmentation fault in `tf.raw_ops.MaxPoolGrad` caused by missing validation. The [implementation](https:/... read",
+        "Published": "N/A",
+        "Severity Score": "5.5 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-37674"
+    },
+    {
+        "Identifier": "CVE-2021-37677",
+        "Title": "- TensorFlow is an end-to-end open source platform for machine learning. In affected versions the shape inference code for `tf.raw_ops.Dequantize` has a vulnerability that could trigger a denial of service via a segfault if an attacker provides inva... read",
+        "Published": "N/A",
+        "Severity Score": "5.5 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-37677"
+    },
+    {
+        "Identifier": "CVE-2021-24410",
+        "Title": "- The \u00e0\u00b0\u00a4\u00e0\u00b1\u2020\u00e0\u00b0\u00b2\u00e0\u00b1?\u00e0\u00b0\u2014\u00e0\u00b1? \u00e0\u00b0\u00ac\u00e0\u00b1\u02c6\u00e0\u00b0\u00ac\u00e0\u00b0\u00bf\u00e0\u00b0\u00b2\u00e0\u00b1? \u00e0\u00b0\u00b5\u00e0\u00b0\u0161\u00e0\u00b0\u00a8\u00e0\u00b0\u00ae\u00e0\u00b1?\u00e0\u00b0\u00b2\u00e0\u00b1? WordPress plugin through 1.0 is lacking any CSRF check when saving its settings and verses, and do not sanitise or escape them when outputting them back in the page. This could allow ... read",
+        "Published": "N/A",
+        "Severity Score": "6.1 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-24410"
+    },
+    {
+        "Identifier": "CVE-2021-21832",
+        "Title": "- A memory corruption vulnerability exists in the ISO Parsing functionality of Disc Soft Ltd Deamon Tools Pro 8.3.0.0767. A specially crafted malformed file can lead to an out-of-bounds write. An attacker can provide a malicious file to trigger this... read",
+        "Published": "N/A",
+        "Severity Score": "9.8 CRITICAL",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-21832"
+    },
+    {
+        "Identifier": "CVE-2021-39144",
+        "Title": "- XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker has sufficient rights to execute commands of the host only by manipulating the processed input stream. No u... read",
+        "Published": "N/A",
+        "Severity Score": "8.5 HIGH",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-39144"
+    },
+    {
+        "Identifier": "CVE-2021-28633",
+        "Title": "- Adobe Creative Cloud Desktop Application (installer) version 2.4 (and earlier) is affected by an Insecure temporary file creation vulnerability. An attacker could leverage this vulnerability to cause arbitrary file overwriting in the context of th... read",
+        "Published": "N/A",
+        "Severity Score": "6.1 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-28633"
+    },
+    {
+        "Identifier": "CVE-2021-25735",
+        "Title": "- A security issue was discovered in kube-apiserver that could allow node updates to bypass a Validating Admission Webhook. Clusters are only affected by this vulnerability if they run a Validating Admission Webhook for Nodes that denies admission b... read",
+        "Published": "N/A",
+        "Severity Score": "6.5 MEDIUM",
+        "Detail": "https://nvd.nist.gov/vuln/detail/CVE-2021-25735"
+    }
+]
